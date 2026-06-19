@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full-Stack+Enthusiast;42+Student;Building+Modern+Experiences;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full-Stack+Enthusiast;Building+Modern+Experiences;Always+Learning+Something+New"/>
 
 </p>
 
