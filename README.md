@@ -22,6 +22,14 @@
 
 </p>
 
+
+<p align="center">
+
+<img src="./images/desktop-preview.png" width="900"/>
+
+</p>
+
+
 <p align="center">
 
 <a href="https://myportfolioaimsangai.vercel.app/">
@@ -133,35 +141,6 @@ Jest
 Playwright
 ```
 
----
-
-# 📷 Screenshots
-
-## Desktop View
-
-<p align="center">
-
-<img src="./images/desktop-preview.png" width="900"/>
-
-</p>
-
-## Mobile View
-
-<p align="center">
-
-<img src="./images/mobile-preview.png" width="300"/>
-
-</p>
-
-## Contact Section
-
-<p align="center">
-
-<img src="./images/contact-preview.png" width="900"/>
-
-</p>
-
----
 
 # 🏗 Project Structure
 
